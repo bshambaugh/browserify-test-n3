@@ -1,0 +1,3 @@
+this was created with browserify N3.js -o brow-N3.js
+
+It did not work when included in the DOM with <script src=""></script> 
