@@ -7,6 +7,6 @@ requirejs.config({
        p5: 'libraries/p5',
        p5dom: 'libraries/p5.dom',
        rdflib: 'libraries/rdflib.min', 
-       n3lib:     'libraries/amdN3'
+       n3lib:     'libraries/bun2-exportN3'
     }
 });
